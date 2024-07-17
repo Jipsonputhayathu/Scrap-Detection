@@ -3,7 +3,7 @@
 
 ## Overview
 
-The Scrap Detection project integrates scanCONTROL 3000-50 sensors to perform 3D profiling of workpieces. The system captures data from two laser sensors positioned at different angles, combines the data to create a comprehensive 3D view, and plots the results. The project is controlled via B&R Automation Studio using UDP.
+The Scrap Detection project integrates scanCONTROL 3000-50 sensors to perform 3D profiling of workpieces. The system captures data from two laser sensors positioned at different angles, combines the data to create a comprehensive 3D view, and plots the results. 
 
 ## Features
 
